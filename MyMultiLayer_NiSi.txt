@@ -1,0 +1,14 @@
+substrate	0	N	2	N   0.1 N
+
+profil1		erf
+
+interface1	10	Y	9.4	N   0.1 N
+
+profil2		linear
+
+interface2	50	N   	9.4	Y   0.1 N
+
+profil3		erf
+
+vacuum  	60	N	0	N   0.1 N
+---------- -----------
